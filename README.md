@@ -2,7 +2,7 @@
 
 ###Download and Move Necessary Files
 ```
-$ git clone https://github.com/nathanph/dotfiles ~/dotfiles
+$ git clone https://github.com/alewitt/dotfiles ~/dotfiles
 $ cp ~/dotfiles/.* ~/
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
