@@ -8,7 +8,7 @@ $  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install
 ```
 #### Oh-My-ZSH
 ```
-$ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ### Download and Move Vim Files
